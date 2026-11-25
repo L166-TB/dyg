@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+firmware35/build/
+firmware35/**/*.o
+firmware35/**/*.elf
+firmware35/**/*.bin
+firmware35/**/*.hex
+firmware35/**/*.map
+harmony/oh_modules/
+harmony/.hvigor/
+harmony/build/
+harmony/**/build/
+node_modules/
+.DS_Store
+Thumbs.db

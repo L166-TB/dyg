@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "蔗序鸿蒙上位机"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "蔗序智慧农业产线移动端"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "蔗序"
+    }
+  ]
+}

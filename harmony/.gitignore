@@ -1,0 +1,9 @@
+/node_modules
+/oh_modules
+/.hvigor
+/local.properties
+/build
+/entry/build
+/.idea
+*.hap
+*.app
